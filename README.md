@@ -1,4 +1,5 @@
 # Nothing to see here 😏
+Taylor commented out the existing README following this [tutorial](https://www.youtube.com/watch?v=ooFFdbx0JXk) and [template](https://github.com/tmoreton/tailwind-html-template)
 
 <!-- # Tailwind HTML Landing Page Template
 ![LandingPage](/images/example.gif)
