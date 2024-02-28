@@ -1,4 +1,6 @@
-# Tailwind HTML Landing Page Template
+# Nothing to see here 😏
+
+<!-- # Tailwind HTML Landing Page Template
 ![LandingPage](/images/example.gif)
 
 # Getting Started Tutorial
@@ -50,4 +52,4 @@ Full Code Example:
 
 
 ## Step #6 - [It's Live](https://tmoreton.github.io/tailwind-html-template)
-Once you make changes to your own Github repo it will be visible at https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME-HERE
+Once you make changes to your own Github repo it will be visible at https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME-HERE -->
