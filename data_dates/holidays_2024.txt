@@ -1,0 +1,37 @@
+Date: Jan 1, Mon, Holiday: New Year's Day*
+Date: Jan 6, Sat, Holiday: Three Kings' Day
+Date: Jan 15, Mon, Holiday: Martin Luther King, Jr. Day
+Date: Feb 9-Feb 10, Fri-Sat, Holiday: Lunar New Year's Eve & Lunar New Year
+Date: Feb 12, Mon, Holiday: Lincoln's Birthday
+Date: Feb 14, Wed, Holiday: Ash Wednesday
+Date: Feb 19, Mon, Holiday: Washington's Birthday (Presidents' Day)
+Date: Mar 24, Sun, Holiday: Purim
+Date: Mar 28, Thurs, Holiday: Holy Thursday
+Date: Mar 29, Fri, Holiday: Good Friday
+Date: Apr 10-Apr 11, Wed-Thurs, Holiday: Idul-Fitr (Eid al-Fitr)
+Date: Apr 23-Apr 24, Tue-Wed, Holiday: Passover
+Date: Apr 29-Apr 30, Mon-Tue, Holiday: Passover (7th and 8th Days)
+Date: May 2, Thurs, Holiday: Holy Thursday (Orthodox)
+Date: May 3, Fri, Holiday: Good Friday (Orthodox)
+Date: May 9, Thurs, Holiday: Solemnity of the Ascension
+Date: May 27, Mon, Holiday: Memorial Day*
+Date: June 12-June 13, Wed-Thurs, Holiday: Shavuot (2 Days)
+Date: June 17-June 18, Mon-Tue, Holiday: Idul-Adha (Eid al-Adha)
+Date: June 19, Wed, Holiday: Juneteenth
+Date: July 4, Thurs, Holiday: Independence Day*
+Date: Aug 13, Tue, Holiday: Tisha B'Av
+Date: Aug 15, Thurs, Holiday: Feast of the Assumption
+Date: Sept 2, Mon, Holiday: Labor Day*
+Date: Oct 3-Oct 4, Thurs-Fri, Holiday: Rosh Hashanah
+Date: Oct 12, Sat, Holiday: Yom Kippur
+Date: Oct 14, Mon, Holiday: Italian Heritage Day/Indigenous Peoples' Day
+Date: Oct 17-Oct 18, Thurs-Fri, Holiday: Succoth (2 Days)
+Date: Oct 24, Thurs, Holiday: Shemini Atzereth
+Date: Oct 25, Fri, Holiday: Simchas Torah
+Date: Nov 1, Fri, Holiday: Diwali
+Date: Nov 1, Fri, Holiday: All Saints' Day
+Date: Nov 5, Tues, Holiday: Election Day
+Date: Nov 11, Mon, Holiday: Veterans Day
+Date: Nov 28, Thurs, Holiday: Thanksgiving Day*
+Date: Dec 9, Mon, Holiday: Immaculate Conception
+Date: Dec 25, Wed, Holiday: Christmas Day*
