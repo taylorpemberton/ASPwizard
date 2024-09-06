@@ -1,0 +1,24 @@
+{
+  "name": "aspwizard",
+  "version": "1.0.0",
+  "description": "Taylor commented out the existing README following this [tutorial](https://www.youtube.com/watch?v=ooFFdbx0JXk) and [template](https://github.com/tmoreton/tailwind-html-template)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorpemberton/ASPwizard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorpemberton/ASPwizard/issues"
+  },
+  "homepage": "https://github.com/taylorpemberton/ASPwizard#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
